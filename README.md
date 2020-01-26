@@ -1,4 +1,4 @@
-# Erdos-Straus-Conjecture-Networks
+# Erdős-Straus Conjecture (Complex Networks Approach)
 Code used in the paper - "A Complex Networks Approach to Analysing the Erdős-Straus Conjecture and Related Problems"
 
 Link - https://www.preprints.org/manuscript/201910.0084/v1
