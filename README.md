@@ -1,2 +1,7 @@
 # Erdos-Straus-Conjecture-Networks
 Code used in the paper - "A Complex Networks Approach to Analysing the Erdős-Straus Conjecture and Related Problems"
+
+Link - https://www.preprints.org/manuscript/201910.0084/v1
+
+
+Abstract: For any positive integer n ≥ 2, the Erdős-Straus Conjecture claims that the Diophantine equation 4/n = 1/x + 1/y + 1/z has a solution where x, y, z are also positive integers. In this paper, a directed network based on this equation is generated, with properties such as its average clustering coefficient, average path length, degree distributions, and largest strongly connected component analysed to reveal some underlying trends about the nature of the conjecture. Potential connections between different numbers, that result from satisfying a source-solution relationship for this equation, are described using the appropriate number-theoretic interpretations wherever possible, while conjectures backed by these trends are made in other instances. Additionally, a directed configuration model is used to show that the origin of several results is the degree sequence of the network. Metrics relating to the prime number nodes, specifically their in and out degrees, are also explored to yield some intriguing observations. On the whole, the aim is to highlight the viability of complex networks as a computational tool to study this general class of problems pertaining to fixed-length unit fraction splits. 
